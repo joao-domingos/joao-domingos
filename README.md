@@ -1,7 +1,4 @@
 # Yoooooooooooooo
-### im currently on vacation from my college and im learning some front-end stuff
-
-![Snake animation](https://github.com/joao-domingos/joao-domingos/blob/output/github-contribution-grid-snake.svg)
 
 <div>
   <main>
